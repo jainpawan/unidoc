@@ -52,6 +52,20 @@ type Image struct {
 	encoder core.StreamEncoder
 }
 
+func NewImageFromXimg(ximg *model.XObjectImage) (*Image) {
+	image := &Image{}
+	image.xobj = ximg
+
+	image.width = float64(*ximg.Width)
+	image.height = float64(*ximg.Height)
+
+	image.opacity = 1.0
+
+	image.positioning =positionAbsolute
+
+	return image
+}
+
 // NewImage create a new image from a unidoc image (model.Image).
 func NewImage(img *model.Image) (*Image, error) {
 	image := &Image{}
