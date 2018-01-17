@@ -3,9 +3,9 @@ package draw
 import (
 	"math"
 
-	pdfcontent "github.com/unidoc/unidoc/pdf/contentstream"
-	pdfcore "github.com/unidoc/unidoc/pdf/core"
-	pdf "github.com/unidoc/unidoc/pdf/model"
+	pdfcontent "github.com/jainpawan/unidoc/pdf/contentstream"
+	pdfcore "github.com/jainpawan/unidoc/pdf/core"
+	pdf "github.com/jainpawan/unidoc/pdf/model"
 )
 
 type Circle struct {

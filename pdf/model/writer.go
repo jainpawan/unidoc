@@ -18,9 +18,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/common/license"
-	. "github.com/unidoc/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/common"
+	"github.com/jainpawan/unidoc/common/license"
+	. "github.com/jainpawan/unidoc/pdf/core"
 )
 
 var pdfCreator = ""

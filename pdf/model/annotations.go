@@ -9,8 +9,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unidoc/common"
-	. "github.com/unidoc/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/common"
+	. "github.com/jainpawan/unidoc/pdf/core"
 )
 
 // PDFAnnotation contains common attributes of an annotation.  The context object contains the subannotation,

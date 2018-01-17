@@ -8,8 +8,8 @@ package creator
 import (
 	"errors"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/pdf/model"
+	"github.com/jainpawan/unidoc/common"
+	"github.com/jainpawan/unidoc/pdf/model"
 )
 
 // Table allows organizing content in an rows X columns matrix, which can spawn across multiple pages.

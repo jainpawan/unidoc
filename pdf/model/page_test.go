@@ -8,7 +8,7 @@ package model
 import (
 	"testing"
 
-	. "github.com/unidoc/unidoc/pdf/core"
+	. "github.com/jainpawan/unidoc/pdf/core"
 )
 
 /*

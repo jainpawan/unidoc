@@ -17,8 +17,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/unidoc/unidoc/common"
-	. "github.com/unidoc/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/common"
+	. "github.com/jainpawan/unidoc/pdf/core"
 )
 
 // PDF page object (7.7.3.3 - Table 30).

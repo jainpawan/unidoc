@@ -8,9 +8,9 @@ package contentstream
 import (
 	"errors"
 
-	"github.com/unidoc/unidoc/common"
-	. "github.com/unidoc/unidoc/pdf/core"
-	. "github.com/unidoc/unidoc/pdf/model"
+	"github.com/jainpawan/unidoc/common"
+	. "github.com/jainpawan/unidoc/pdf/core"
+	. "github.com/jainpawan/unidoc/pdf/model"
 )
 
 // Basic graphics state implementation.

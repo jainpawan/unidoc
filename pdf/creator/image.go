@@ -12,10 +12,10 @@ import (
 
 	"io/ioutil"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/pdf/contentstream"
-	"github.com/unidoc/unidoc/pdf/core"
-	"github.com/unidoc/unidoc/pdf/model"
+	"github.com/jainpawan/unidoc/common"
+	"github.com/jainpawan/unidoc/pdf/contentstream"
+	"github.com/jainpawan/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/pdf/model"
 )
 
 // The Image type is used to draw an image onto PDF.

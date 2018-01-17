@@ -9,7 +9,7 @@ import (
 	"encoding/base64"
 	"testing"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/jainpawan/unidoc/common"
 )
 
 func init() {

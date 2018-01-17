@@ -5,7 +5,7 @@
 
 package textencoding
 
-import "github.com/unidoc/unidoc/pdf/core"
+import "github.com/jainpawan/unidoc/pdf/core"
 
 type TextEncoder interface {
 	// Convert a raw utf8 string (series of runes) to an encoded string (series of character codes) to be used in PDF.

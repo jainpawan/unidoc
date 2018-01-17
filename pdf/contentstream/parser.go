@@ -14,8 +14,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/unidoc/unidoc/common"
-	. "github.com/unidoc/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/common"
+	. "github.com/jainpawan/unidoc/pdf/core"
 )
 
 // Content stream parser.

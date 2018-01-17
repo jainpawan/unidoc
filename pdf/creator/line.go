@@ -8,8 +8,8 @@ package creator
 import (
 	"math"
 
-	"github.com/unidoc/unidoc/pdf/contentstream/draw"
-	"github.com/unidoc/unidoc/pdf/model"
+	"github.com/jainpawan/unidoc/pdf/contentstream/draw"
+	"github.com/jainpawan/unidoc/pdf/model"
 )
 
 // Line defines a line between point 1 (X1,Y1) and point 2 (X2,Y2).  The line ending styles can be none (regular line),

@@ -10,8 +10,8 @@
 package fonts
 
 import (
-	"github.com/unidoc/unidoc/pdf/core"
-	"github.com/unidoc/unidoc/pdf/model/textencoding"
+	"github.com/jainpawan/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/pdf/model/textencoding"
 )
 
 // Font Helvetica.  Implements Font interface.

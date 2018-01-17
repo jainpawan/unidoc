@@ -19,11 +19,11 @@ import (
 	"github.com/boombuler/barcode"
 	"github.com/boombuler/barcode/qr"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/pdf/core"
-	"github.com/unidoc/unidoc/pdf/model"
-	"github.com/unidoc/unidoc/pdf/model/fonts"
-	"github.com/unidoc/unidoc/pdf/model/textencoding"
+	"github.com/jainpawan/unidoc/common"
+	"github.com/jainpawan/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/pdf/model"
+	"github.com/jainpawan/unidoc/pdf/model/fonts"
+	"github.com/jainpawan/unidoc/pdf/model/textencoding"
 )
 
 func init() {

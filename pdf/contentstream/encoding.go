@@ -12,8 +12,8 @@ import (
 	gocolor "image/color"
 	"image/jpeg"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/common"
+	"github.com/jainpawan/unidoc/pdf/core"
 )
 
 // Creates the encoder for the inline image's Filter and DecodeParms.

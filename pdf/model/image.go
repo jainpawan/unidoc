@@ -14,9 +14,9 @@ import (
 	_ "image/png"
 	"io"
 
-	"github.com/unidoc/unidoc/common"
-	. "github.com/unidoc/unidoc/pdf/core"
-	"github.com/unidoc/unidoc/pdf/model/sampling"
+	"github.com/jainpawan/unidoc/common"
+	. "github.com/jainpawan/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/pdf/model/sampling"
 )
 
 // Basic representation of an image.

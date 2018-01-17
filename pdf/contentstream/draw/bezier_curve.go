@@ -8,7 +8,7 @@ package draw
 import (
 	"math"
 
-	"github.com/unidoc/unidoc/pdf/model"
+	"github.com/jainpawan/unidoc/pdf/model"
 )
 
 // Cubic bezier curves are defined by:

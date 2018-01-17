@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/jainpawan/unidoc/common"
 )
 
 // TODO (v3): Create a new type xrefType which can be an integer and can be used for improved type checking.

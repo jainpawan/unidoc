@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/jainpawan/unidoc/common"
 )
 
 // PdfCrypt provides PDF encryption/decryption support.

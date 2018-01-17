@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"fmt"
 
-	. "github.com/unidoc/unidoc/pdf/core"
+	. "github.com/jainpawan/unidoc/pdf/core"
 )
 
 type ContentStreamOperation struct {

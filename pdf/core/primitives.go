@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/unidoc/unidoc/common"
+	"github.com/jainpawan/unidoc/common"
 )
 
 // PdfObject is an interface which all primitive PDF objects must implement.

@@ -10,8 +10,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/pdf/model"
+	"github.com/jainpawan/unidoc/common"
+	"github.com/jainpawan/unidoc/pdf/model"
 )
 
 // Creator is a wrapper around functionality for creating PDF reports and/or adding new

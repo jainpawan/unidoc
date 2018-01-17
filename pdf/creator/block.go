@@ -10,9 +10,9 @@ import (
 
 	"fmt"
 
-	"github.com/unidoc/unidoc/pdf/contentstream"
-	"github.com/unidoc/unidoc/pdf/core"
-	"github.com/unidoc/unidoc/pdf/model"
+	"github.com/jainpawan/unidoc/pdf/contentstream"
+	"github.com/jainpawan/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/pdf/model"
 )
 
 // Block contains a portion of PDF Page contents. It has a width and a position and can

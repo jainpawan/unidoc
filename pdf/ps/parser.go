@@ -13,8 +13,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/unidoc/unidoc/common"
-	pdfcore "github.com/unidoc/unidoc/pdf/core"
+	"github.com/jainpawan/unidoc/common"
+	pdfcore "github.com/jainpawan/unidoc/pdf/core"
 )
 
 type PSParser struct {

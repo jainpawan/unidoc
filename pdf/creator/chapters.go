@@ -9,8 +9,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/pdf/model/fonts"
+	"github.com/jainpawan/unidoc/common"
+	"github.com/jainpawan/unidoc/pdf/model/fonts"
 )
 
 // Chapter is used to arrange multiple drawables (paragraphs, images, etc) into a single section. The concept is

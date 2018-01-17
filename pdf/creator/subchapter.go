@@ -8,8 +8,8 @@ package creator
 import (
 	"fmt"
 
-	"github.com/unidoc/unidoc/common"
-	"github.com/unidoc/unidoc/pdf/model/fonts"
+	"github.com/jainpawan/unidoc/common"
+	"github.com/jainpawan/unidoc/pdf/model/fonts"
 )
 
 // Subchapter simply represents a sub chapter pertaining to a specific Chapter.  It can contain multiple

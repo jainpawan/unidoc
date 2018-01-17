@@ -5,7 +5,7 @@
 
 package textencoding
 
-import "github.com/unidoc/unidoc/common"
+import "github.com/jainpawan/unidoc/common"
 
 func glyphToRune(glyph string, glyphToRuneMap map[string]rune) (rune, bool) {
 	ucode, found := glyphToRuneMap[glyph]
